@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [RoyDCC.github.io](RoyDCC.github.io)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **RodrigoCImp@outlook.com**
 
