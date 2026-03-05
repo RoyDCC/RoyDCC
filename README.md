@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">Fullstack Developer from Mexico</h3>
+<h2 align="center">Fullstack Developer from Mexico</h2>
 
 - 👨‍💻 All of my projects are available at [RoyDCC.github.io](RoyDCC.github.io)
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rodrigo.diazdeleonc@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
